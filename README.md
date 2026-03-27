@@ -7,5 +7,5 @@ An apprentice of programing, living in China
 
 🐧 Interested in Android, Arch Linux
 
-🌐 https://sherlockchiang.github.io/
+🌐 About me: https://sherlockchiang.github.io/
 
