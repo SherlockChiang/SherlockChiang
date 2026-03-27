@@ -7,5 +7,5 @@ An apprentice of programing, living in China
 
 🐧 Interested in Android, Arch Linux
 
-🌐 My personal Blog: [https://uranium92.top/](https://uranium92.top/)
+🌐 https://sherlockchiang.github.io/
 
