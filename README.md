@@ -5,7 +5,7 @@ An apprentice of programing, living in HongKong SAR
 
 👩‍💻 Programming Desktop Software and Android stuffs
 
-🐧 Interested in Cognitive Modeling and LLM
+🐧 Interested in Cognitive Modeling, LLM and Anime
 
 🌐 About me: https://sherlockchiang.github.io/
 
