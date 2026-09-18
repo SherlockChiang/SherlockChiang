@@ -1,11 +1,11 @@
-An apprentice of programing, living in China
+An apprentice of programing, living in HongKong SAR
 <img src="https://github-readme-stats-mu-ten-18.vercel.app/api?username=SherlockChiang&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" align="right">
 
 🎓 Psychology Ph.D. Student
 
-👩‍💻 Programming Languages: MATLAB, Python, JavaScript
+👩‍💻 Programming Desktop Software and Android stuffs
 
-🐧 Interested in Android, Arch Linux
+🐧 Interested in Cognitive Modeling and LLM
 
 🌐 About me: https://sherlockchiang.github.io/
 
