@@ -3,7 +3,7 @@ An apprentice of programing, living in HongKong SAR
 
 🎓 Psychology Ph.D. Student
 
-👩‍💻 Programming Desktop Software and Android stuffs
+👩‍💻 Programming desktop software and Android stuffs
 
 🐧 Interested in Cognitive Modeling, LLM and Anime
 
